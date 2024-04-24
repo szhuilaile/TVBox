@@ -20,4 +20,12 @@
 {"name": "IPTVindex"，"url": "https://iptvindex.com/tv.txt"}，
 {"name": "YouTuBe源"，"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/yingshi-y2b.txt"}，
 {"name": "武哥"，"url": "https://qu.ax/sEYA.png"}
+{@mc卫视直播|@tp1http://cdn.gcufbd.top/img/weishi.jpg|@dzweishizhibo.txt|@sl36|}
+{@mc龙珠|@tp1http://cdn.gcufbd.top/img/baobao.png|@dzlongzhu.txt|@sl0|}
+{@mc映客|@tp1http://cdn.gcufbd.top/img/yingke.jpg|@dzyingke.txt|@sl1|}
+{@mc卡哇伊|@tp1http://cdn.gcufbd.top/img/kawayi.jpg|@dzkawayi.txt|@sl99|}
+{@mc咪狐|@tp1http://cdn.gcufbd.top/img/mihu.jpg|@dzmihu.txt|@sl80|}
+{@mc花蝴蝶|@tp1http://cdn.gcufbd.top/img/huahudie.jpg|@dzhuahudie.txt|@sl119|}
+{@mc蜜桃|@tp1http://cdn.gcufbd.top/img/mitao.jpg|@dzmitao.txt|@sl85|}
+{@mc番茄社区|@tp1http://cdn.gcufbd.top/img/fanqie.png|@dzfanjiashequ.txt|@sl105|}
 ]
